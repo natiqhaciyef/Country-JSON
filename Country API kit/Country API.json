@@ -1,0 +1,1730 @@
+[
+    {
+        "name": "Afghanistan",
+        "capital": "Kabul",
+        "region": "Asia",
+        "currency": "Afghani",
+        "flag": "https://cdn.countryflags.com/thumbs/afghanistan/flag-400.png",
+        "language": "Pashto",
+        "religion": "Muslim"
+    },
+    {
+        "name": "Albania",
+        "capital": "Tirana",
+        "region": "Europe",
+        "currency": "Lek",
+        "flag": "https://cdn.countryflags.com/thumbs/albania/flag-400.png",
+        "language": "Albanian",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Algeria",
+        "capital": "Algiers",
+        "region": "Africa",
+        "currency": "Algerian Dinar",
+        "flag": "https://cdn.countryflags.com/thumbs/algeria/flag-400.png",
+        "language": "Arabic, Tamazight, French",
+        "religion": "Islam"
+    },
+    {
+        "name": "Andorra",
+        "capital": "Andorra la Vella",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/andorra/flag-400.png",
+        "language": "Catalan",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Angola",
+        "capital": "Luanda",
+        "region": "Africa",
+        "currency": "Kwanza",
+        "flag": "https://cdn.countryflags.com/thumbs/angola/flag-400.png",
+        "language": "Portuguese",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Antigua & Barbuda",
+        "capital": "Saint John's",
+        "region": "North America",
+        "currency": "East Caribbean Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/antigua-and-barbuda/flag-400.png",
+        "language": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "region": "South America",
+        "currency": "Argentine Peso",
+        "flag": "https://cdn.countryflags.com/thumbs/argentina/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity (but secular country)"
+    },
+    {
+        "name": "Armenia",
+        "capital": "Yerevan",
+        "region": "Asia",
+        "currency": "Dram",
+        "flag": "https://cdn.countryflags.com/thumbs/armenia/flag-400.png",
+        "language": "Armenian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Australia",
+        "capital": "Canberra",
+        "region": "Australia",
+        "currency": "Australian Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/australia/flag-400.png",
+        "language": "English",
+        "religion": "Christianity (but secular country)"
+    },
+    {
+        "name": "Austria",
+        "capital": "Viena",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/austria/flag-400.png",
+        "language": "German",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Azerbaijan",
+        "capital": "Baku",
+        "region": "Asia",
+        "currency": "Manat",
+        "flag": "https://cdn.countryflags.com/thumbs/azerbaijan/flag-400.png",
+        "language": "Azerbaijani",
+        "religion": "Islam"
+    },
+    {
+        "name": "The Bahamas",
+        "capital": "Nassau",
+        "region": "North America",
+        "currency": "Bahamian Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/bahamas/flag-400.png",
+        "language": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Bahrain",
+        "capital": "Manama",
+        "region": "Asia",
+        "currency": "Bahraini Dinar",
+        "flag": "https://cdn.countryflags.com/thumbs/bahrain/flag-400.png",
+        "language": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Bangladesh",
+        "capital": "Dhaka",
+        "region": "Asia",
+        "currency": "Taka",
+        "flag": "https://cdn.countryflags.com/thumbs/bangladesh/flag-400.png",
+        "language": "Bangla",
+        "religion": "Islam"
+    },
+    {
+        "name": "Barbados",
+        "capital": "Bridgetown",
+        "region": "North America",
+        "currency": "Barbadian Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/barbados/flag-400.png",
+        "language": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Belarus",
+        "capital": "Minsk",
+        "region": "Europe",
+        "currency": "Belarusian Ruble",
+        "flag": "https://cdn.countryflags.com/thumbs/belarus/flag-400.png",
+        "language": "Belarusian, Russian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Belgium",
+        "capital": "Brussels",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/belgium/flag-400.png",
+        "language": "Dutch, French, German",
+        "religion": "Secular"
+    },
+    {
+        "name": "Belize",
+        "capital": "Belmopan",
+        "region": "North America",
+        "currency": "Belize Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/belize/flag-400.png",
+        "language": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Benin",
+        "capital": "Porto-Novo",
+        "region": "Africa",
+        "currency": "West African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/benin/flag-400.png",
+        "language": "French",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Bhutan",
+        "capital": "Thimphu",
+        "region": "Asia",
+        "currency": "Ngultrum",
+        "flag": "https://cdn.countryflags.com/thumbs/bhutan/flag-400.png",
+        "language": "Dzongkha",
+        "religion": "Buddhism, Hindu"
+    },
+    {
+        "name": "Bosnia & Herzegovina",
+        "capital": "Sarajevo",
+        "region": "Europe",
+        "currency": "Convertible Mark",
+        "flag": "https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-400.png",
+        "language": "Croatian, Bosnian, Serbian",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Botswana",
+        "capital": "Gaborone",
+        "region": "Africa",
+        "currency": "Pula",
+        "flag": "https://cdn.countryflags.com/thumbs/botswana/flag-400.png",
+        "language": "English, Tswana",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Brazil",
+        "capital": "Brasilia",
+        "region": "South America",
+        "currency": "Real",
+        "flag": "https://cdn.countryflags.com/thumbs/brazil/flag-400.png",
+        "language": "Portuguese",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Brunei",
+        "capital": "Bandar Seri Begawan",
+        "region": "Asia",
+        "currency": "Burunei Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/brunei/flag-400.png",
+        "language": "Malay",
+        "religion": "Islam"
+    },
+    {
+        "name": "Bulgaria",
+        "capital": "Sofia",
+        "region": "Europe",
+        "currency": "Lev",
+        "flag": "https://cdn.countryflags.com/thumbs/bulgaria/flag-400.png",
+        "language": "Bulgarian",
+        "religion": "Secular"
+    },
+    {
+        "name": "Burkina Faso",
+        "capital": "Ougadougou",
+        "region": "Africa",
+        "currency": "West African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/burkina-faso/flag-400.png",
+        "language": "French",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Burundi",
+        "capital": "Bujumbura",
+        "region": "Africa",
+        "currency": "Burundi Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/burundi/flag-400.png",
+        "language": "Kirundi, French",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Cambodia",
+        "capital": "Phnom Penh",
+        "region": "Asia",
+        "currency": "Riet",
+        "flag": "https://cdn.countryflags.com/thumbs/cambodia/flag-400.png",
+        "language": "Khmer",
+        "religion": "Buddhism"
+    },
+    {
+        "name": "Cameroon",
+        "capital": "Yaounde",
+        "region": "Africa",
+        "currency": "Central African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/cameroon/flag-400.png",
+        "language": "English, France",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Canada",
+        "capital": "Ottawa",
+        "region": "North America",
+        "currency": "Canadian Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/canada/flag-400.png",
+        "language": "English, France",
+        "religion": "Christianity (but secular country)"
+    },
+    {
+        "name": "Cape Verde",
+        "capital": "Praia",
+        "region": "Africa",
+        "currency": "Cape Verdean Escudo",
+        "flag": "https://cdn.countryflags.com/thumbs/cape-verde/flag-400.png",
+        "language": "Portuguese",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Central Africa Respublic",
+        "capital": "Bangui",
+        "region": "Africa",
+        "currency": "Central African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/central-african-republic/flag-400.png",
+        "language": "French, Sango",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Chad",
+        "capital": "N'Djamena",
+        "region": "Africa",
+        "currency": "Central African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/chad/flag-400.png",
+        "language": "French, Arabic",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Chile",
+        "capital": "Santiago",
+        "region": "South America",
+        "currency": "Chile Peso",
+        "flag": "https://cdn.countryflags.com/thumbs/chile/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "China",
+        "capital": "Beijing",
+        "region": "Asia",
+        "currency": "Chinese Yuan",
+        "flag": "https://cdn.countryflags.com/thumbs/china/flag-400.png",
+        "language": "Mandarin",
+        "religion": "Buddhism"
+    },
+    {
+        "name": "Colombia",
+        "capital": "Bogota",
+        "region": "South America",
+        "currency": "Colombian Peso",
+        "flag": "https://cdn.countryflags.com/thumbs/colombia/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Comoros",
+        "capital": "Moroni",
+        "region": "Africa",
+        "currency": "Comorian Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/comoros/flag-400.png",
+        "language": "Comorian, French, Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "capital": "Kinshasa",
+        "region": "Africa",
+        "currency": "Congolse Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/congo-democratic-republic-of-the/flag-400.png",
+        "language": "French",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Republic of the Congo",
+        "capital": "Brazzaville",
+        "region": "Africa",
+        "currency": "Central African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/congo-republic-of-the/flag-400.png",
+        "language": "French",
+        "religion": "N/A"
+    },
+    {
+        "name": "Costa Rica",
+        "capital": "San Jose",
+        "region": "North America",
+        "currency": "Colon",
+        "flag": "https://cdn.countryflags.com/thumbs/costa-rica/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Cote d'Ivoire",
+        "capital": "Yamaoussoukro, Abidjan",
+        "region": "Africa",
+        "currency": "West African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/cote-d-ivoire/flag-400.png",
+        "language": "French",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Croatia",
+        "capital": "Zagreb",
+        "region": "Europe",
+        "currency": "Kuna",
+        "flag": "https://cdn.countryflags.com/thumbs/croatia/flag-400.png",
+        "language": "Croatian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Cuba",
+        "capital": "Havana",
+        "region": "North America",
+        "currency": "Cuban Peso",
+        "flag": "https://cdn.countryflags.com/thumbs/cuba/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Cyprus",
+        "capital": "Nicosia",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/cyprus/flag-400.png",
+        "language": "Greek, Turkish",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Czech Republic",
+        "capital": "Prague",
+        "region": "Europe",
+        "currency": "Czech Koruna",
+        "flag": "https://cdn.countryflags.com/thumbs/czech-republic/flag-400.png",
+        "language": "Czech, Slovak",
+        "religion": "N/A"
+    },
+    {
+        "name": "Denmark",
+        "capital": "Copenhagen",
+        "region": "Europe",
+        "currency": "Danish Krone",
+        "flag": "https://cdn.countryflags.com/thumbs/denmark/flag-400.png",
+        "language": "Danish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Djibouti",
+        "capital": "Djbouti City",
+        "region": "Africa",
+        "currency": "Djiboutian Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/djibouti/flag-400.png",
+        "language": "Arabic, French",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Dominica",
+        "capital": "Roseau",
+        "region": "North America",
+        "currency": "East Caribbean Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/dominica/flag-400.png",
+        "language": "English, France, Antillean Creole",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Dominican Respublic",
+        "capital": "Santo Dominigo",
+        "region": "North America",
+        "currency": "Dominican Peso",
+        "flag": "https://cdn.countryflags.com/thumbs/dominican-republic/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "East Timor",
+        "capital": "Dili",
+        "region": "Asia",
+        "currency": "United States Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/east-timor/flag-400.png",
+        "language": "Tetum, Portuguese",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Ecuador",
+        "capital": "Quito",
+        "region": "South America",
+        "currency": "United States Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/ecuador/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Egypt",
+        "capital": "Cairo",
+        "region": "Africa",
+        "currency": "Egyptian Pound",
+        "flag": "https://cdn.countryflags.com/thumbs/egypt/flag-400.png",
+        "language": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "El Salvador",
+        "capital": "San Salvador",
+        "region": "North America",
+        "currency": "United States Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/el-salvador/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "capital": "Malabo",
+        "region": "Africa",
+        "currency": "Central African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/equatorial-guinea/flag-400.png",
+        "language": "Spanish, French, Portuguese",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Eritrea",
+        "capital": "Asmara",
+        "region": "Africa",
+        "currency": "Nakfa",
+        "flag": "https://cdn.countryflags.com/thumbs/eritrea/flag-400.png",
+        "language": "Arabic, Tigrinya, English",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Estonia",
+        "capital": "Tallin",
+        "region": "Europe",
+        "currency": "Estonian Kroon, Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/estonia/flag-400.png",
+        "language": "Estonian",
+        "religion": "Secular"
+    },
+    {
+        "name": "Ethiopia",
+        "capital": "Addis Ababa",
+        "region": "Africa",
+        "currency": "Birr",
+        "flag": "https://cdn.countryflags.com/thumbs/ethiopia/flag-400.png",
+        "language": "Amharic",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Fiji",
+        "capital": "Suva",
+        "region": "Oceania",
+        "currency": "Fijian Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/fiji/flag-400.png",
+        "language": "English, Bau Fijian, Hindi",
+        "religion": "Islam, Christianity, Hindi"
+    },
+    {
+        "name": "Finland",
+        "capital": "Helsinki",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/finland/flag-400.png",
+        "language": "Finnish, Swedish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "France",
+        "capital": "Paris",
+        "region": "Europe",
+        "currency": "Euro, CFP Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/france/flag-400.png",
+        "language": "French",
+        "religion": "Secular"
+    },
+    {
+        "name": "Gabon",
+        "capital": "Libreville",
+        "region": "Africa",
+        "currency": "Central African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/gabon/flag-400.png",
+        "language": "French",
+        "religion": "Christianity"
+    },
+    {
+        "name": "The Gambia",
+        "capital": "Banjul",
+        "region": "Africa",
+        "currency": "Dalasi",
+        "flag": "https://cdn.countryflags.com/thumbs/gambia/flag-400.png",
+        "language": "English",
+        "religion": "Islam"
+    },
+    {
+        "name": "Georgia",
+        "capital": "Tbilisi",
+        "region": "Asia",
+        "currency": "Lari",
+        "flag": "https://cdn.countryflags.com/thumbs/georgia/flag-400.png",
+        "language": "Georgian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Germany",
+        "capital": "Berlin",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/germany/flag-400.png",
+        "language": "German",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Ghana",
+        "capital": "Accra",
+        "region": "Africa",
+        "currency": "Ghanaian Cedi",
+        "flag": "https://cdn.countryflags.com/thumbs/ghana/flag-400.png",
+        "language": "English",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Greece",
+        "capital": "Athens",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/greece/flag-400.png",
+        "language": "Greek",
+        "religion": "Christianity Orthodoxy"
+    },
+    {
+        "name": "Grenada",
+        "capital": "St George's",
+        "region": "North America",
+        "currency": "East Caribbean Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/grenada/flag-400.png",
+        "language": "English, Patois",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Guatemala",
+        "capital": "Guatemala City",
+        "region": "North America" ,
+        "currency": "Quetzal",
+        "flag": "https://cdn.countryflags.com/thumbs/guatemala/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Guinea",
+        "capital": "Conakry",
+        "region": "Africa",
+        "currency": "Guniean Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/guinea/flag-400.png",
+        "language": "French",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "capital": "Bissau",
+        "region": "Africa",
+        "currency": "West African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/guinea-bissau/flag-400.png",
+        "language": "Portuguese",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Guyana",
+        "capital": "Georgetown",
+        "region": "South America",
+        "currency": "Guyanese Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/guyana/flag-400.png",
+        "language": "English",
+        "religion": "Islam, Christianity, Hindu"
+    },
+    {
+        "name": "Haiti",
+        "capital": "Port-au-Prince",
+        "region": "North America",
+        "currency": "Gourde",
+        "flag": "https://cdn.countryflags.com/thumbs/haiti/flag-400.png",
+        "language": "Haiti Creole, French",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Honduras",
+        "capital": "Tegucigalpa",
+        "region": "North America",
+        "currency": "Lempira",
+        "flag": "https://cdn.countryflags.com/thumbs/honduras/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Hungary",
+        "capital": "Budapest",
+        "region": "Europe",
+        "currency": "Forint",
+        "flag": "https://cdn.countryflags.com/thumbs/hungary/flag-400.png",
+        "language": "Hungarian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Iceland",
+        "capital": "Reykjavik",
+        "region": "Europe",
+        "currency": "Iceland Krona",
+        "flag": "https://cdn.countryflags.com/thumbs/iceland/flag-400.png",
+        "language": "Icelandic",
+        "religion": "Christianity"
+    },
+    {
+        "name": "India",
+        "capital": "New Dehli",
+        "region": "Asia",
+        "currency": "Indian Rupee",
+        "flag": "https://cdn.countryflags.com/thumbs/india/flag-400.png",
+        "language": "Hindi, English",
+        "religion": "Secular"
+    },
+    {
+        "name": "Indonesia",
+        "capital": "Jakarta",
+        "region": "Asia",
+        "currency": "Rupiah",
+        "flag": "https://cdn.countryflags.com/thumbs/indonesia/flag-400.png",
+        "language": "Indonesian",
+        "religion": "Islam"
+    },
+    {
+        "name": "Iran",
+        "capital": "Tehran",
+        "region": "Asia",
+        "currency": "Rial",
+        "flag": "https://cdn.countryflags.com/thumbs/iran/flag-400.png",
+        "language": "Persian",
+        "religion": "Islam"
+    },
+    {
+        "name": "Iraq",
+        "capital": "Baghdad",
+        "region": "Asia",
+        "currency": "Iraqi Dinar",
+        "flag": "https://cdn.countryflags.com/thumbs/iraq/flag-400.png",
+        "language": "Arabic, Kurdish",
+        "religion": "Islam"
+    },
+    {
+        "name": "Republic of Ireland",
+        "capital": "Dublin",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/ireland/flag-400.png",
+        "language": "English, Irish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Isreal",
+        "capital": "Jerusalem",
+        "region": "Asia",
+        "currency": "Shekel",
+        "flag": "https://cdn.countryflags.com/thumbs/isreal/flag-400.png",
+        "language": "Hebrew, Arabic",
+        "religion": "Judaism, Christianity, Islam, Durze"
+    },
+    {
+        "name": "Italy",
+        "capital": "Rome",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/italy/flag-400.png",
+        "language": "Italian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Jamaica",
+        "capital": "Kingston",
+        "region": "North America",
+        "currency": "Jamaican Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/jamaica/flag-400.png",
+        "language": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "region": "Asia",
+        "currency": "Yen",
+        "flag": "https://cdn.countryflags.com/thumbs/japan/flag-400.png",
+        "language": "Japanese",
+        "religion": "Buddhism or Shinto. (But secular country)"
+    },
+    {
+        "name": "Jordan",
+        "capital": "Amman",
+        "region": "Asia",
+        "currency": "Jordanian Dinar",
+        "flag": "https://cdn.countryflags.com/thumbs/jordan/flag-400.png",
+        "language": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Kazakhstan",
+        "capital": "Astana",
+        "region": "Asia",
+        "currency": "Tenge",
+        "flag": "https://cdn.countryflags.com/thumbs/kazakhstan/flag-400.png",
+        "language": "Kazakh, Russian",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Kenya",
+        "capital": "Nairobi",
+        "region": "Africa",
+        "currency": "Kenyan Shilling",
+        "flag": "https://cdn.countryflags.com/thumbs/kenya/flag-400.png",
+        "language": "Swahili, English",
+        "religion": "Christianity"  
+    },
+    {
+        "name": "Kiribati",
+        "capital": "Tarawa Atoll",
+        "region": "Oceania",
+        "currency": "Kiribati Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/kiribati/flag-400.png",
+        "language": "English, Gilbertese",
+        "religion": "Christianity"
+    },
+    {
+        "name": "North Korea",
+        "capital": "Pyongyang",
+        "region": "Asia",
+        "currency": "North Korea Won",
+        "flag": "https://cdn.countryflags.com/thumbs/north-korea/flag-400.png",
+        "language": "Korean",
+        "religion": "Secular"
+    },
+    {
+        "name": "South Korea",
+        "capital": "Seoul",
+        "region": "Asia",
+        "currency": "South Korea Won",
+        "flag": "https://cdn.countryflags.com/thumbs/south-korea/flag-400.png",
+        "language": "Korean",
+        "religion": "Atheist (but some follow Buddhist & Christian)"
+    },
+    {
+        "name": "Kosovo",
+        "capital": "Pristina",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/kosovo/flag-400.png",
+        "language": "Albanian, Serbian",
+        "religion": "Islam"
+    },
+    {
+        "name": "Kuwait",
+        "capital": "Kuwait City",
+        "region": "Asia",
+        "currency": "Kuwait Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/kuwait/flag-400.png",
+        "language": "Arabic, English",
+        "religion": "Islam"
+    },
+    {
+        "name": "Krygyzstan",
+        "capital": "Bishkek",
+        "region": "Asia",
+        "currency": "Som",
+        "flag": "https://cdn.countryflags.com/thumbs/krygyzstan/flag-400.png",
+        "language": "Krygyz, Russian",
+        "religion": "Islam, Russian Orthodoxy"
+    },
+    {
+        "name": "Laos",
+        "capital": "Vientiane",
+        "region": "Asia",
+        "currency": "Kip",
+        "flag": "https://cdn.countryflags.com/thumbs/laos/flag-400.png",
+        "language": "Lao",
+        "religion": "Buddhism"
+    },
+    {
+        "name": "Latvia",
+        "capital": "Riga",
+        "region": "Europe",
+        "currency": "Lats",
+        "flag": "https://cdn.countryflags.com/thumbs/latvia/flag-400.png",
+        "language": "Latvian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Lebanon",
+        "capital": "Beirut",
+        "region": "Asia",
+        "currency": "Lebanese Pound",
+        "flag": "https://cdn.countryflags.com/thumbs/lebanon/flag-400.png",
+        "language": "Arabic, French",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Lesotho",
+        "capital": "Maseru",
+        "region": "Africa",
+        "currency": "Loti",
+        "flag": "https://cdn.countryflags.com/thumbs/lesotho/flag-400.png",
+        "language": "Sesotho, English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Liberia",
+        "capital": "Monrovia",
+        "region": "Africa",
+        "currency": "Liberian Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/liberia/flag-400.png",
+        "language": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Libya",
+        "capital": "Tripoli",
+        "region": "Africa",
+        "currency": "Libyan Dinar",
+        "flag": "https://cdn.countryflags.com/thumbs/libya/flag-400.png",
+        "language": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Liechtenstein",
+        "capital": "Vaduz",
+        "region": "Europe",
+        "currency": "Swiss Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/liechtenstein/flag-400.png",
+        "language": "German",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Lithuania",
+        "capital": "Vilnius",
+        "region": "Europe",
+        "currency": "Lithuanian Litas",
+        "flag": "https://cdn.countryflags.com/thumbs/lithuania/flag-400.png",
+        "language": "Lithuanian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Luxembourg",
+        "capital": "Luxembourg",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/luxembourg/flag-400.png",
+        "language": "German, French, Luxembourgish",
+        "religion": "Christianity (but secular country)"
+    },
+    {
+        "name": "North Macedoina",
+        "capital": "Skopje",
+        "region": "Europe",
+        "currency": "Macedonian Denar",
+        "flag": "https://cdn.countryflags.com/thumbs/north-macedonia/flag-400.png",
+        "language": "Macedonian",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Madagascar",
+        "capital": "Antananarivo",
+        "region": "Africa",
+        "currency": "Malagasy Ariary",
+        "flag": "https://cdn.countryflags.com/thumbs/madagascar/flag-400.png",
+        "language": "Malagasy, English, French",
+        "religion": "Traditional Religion"
+    },
+    {
+        "name": "Malawi",
+        "capital": "Lilongwe",
+        "region": "Africa",
+        "currency": "Malawi Kwacha",
+        "flag": "https://cdn.countryflags.com/thumbs/malawi/flag-400.png",
+        "language": "English",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "region": "Asia",
+        "currency": "Ringgit",
+        "flag": "https://cdn.countryflags.com/thumbs/malaysia/flag-400.png",
+        "language": "Malay",
+        "religion": "Islam"
+    },
+    {
+        "name": "Mali",
+        "capital": "Bamako",
+        "region": "Africa",
+        "currency": "West African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/mali/flag-400.png",
+        "language": "French",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Malta",
+        "capital": "Valletta",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/malta/flag-400.png",
+        "language": "Maltese, English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Marshall Islands",
+        "capital": "Majuro",
+        "region": "Oceania",
+        "currency": "United States Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/marshall-islands/flag-400.png",
+        "language": "Marshallese, English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Mauritania",
+        "capital": "Nouakchott",
+        "region": "Africa",
+        "currency": "Ouguiya",
+        "flag": "https://cdn.countryflags.com/thumbs/mauritania/flag-400.png",
+        "language": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Mauritius",
+        "capital": "Port Louis",
+        "region": "Africa",
+        "currency": "Mauritian Rupee",
+        "flag": "https://cdn.countryflags.com/thumbs/mauritius/flag-400.png",
+        "language": "English",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "region": "North America",
+        "currency": "Mexican Peso",
+        "flag": "https://cdn.countryflags.com/thumbs/mexico/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Federal States of Micronesia",
+        "capital": "Palikir",
+        "region": "Oceania",
+        "currency": "United States Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/micronesia/flag-400.png",
+        "language": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Moldova",
+        "capital": "Chisinau",
+        "region": "Europe",
+        "currency": "Moldovan Leu",
+        "flag": "https://cdn.countryflags.com/thumbs/moldova/flag-400.png",
+        "language": "Moldovan (Romanian)",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Monaco",
+        "capital": "Monaco",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/monaco/flag-400.png",
+        "language": "English, France, Italian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Mongolia",
+        "capital": "Ulanbaatar",
+        "region": "Asia",
+        "currency": "Togrog",
+        "flag": "https://cdn.countryflags.com/thumbs/mongolia/flag-400.png",
+        "language": "Mongolian",
+        "religion": "Buddhism"
+    },
+    {
+        "name": "Montenegro",
+        "capital": "Podgorica",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/montenegro/flag-400.png",
+        "language": "Montenegrin",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Morocco",
+        "capital": "Rabat",
+        "region": "Africa",
+        "currency": "Moroccon Dirham",
+        "flag": "https://cdn.countryflags.com/thumbs/morocco/flag-400.png",
+        "language": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Mozambique",
+        "capital": "Maputo",
+        "region": "Africa",
+        "currency": "Mozambican Metical",
+        "flag": "https://cdn.countryflags.com/thumbs/mozambique/flag-400.png",
+        "language": "Portuguese",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Myanmar (Burma)",
+        "capital": "Nypjidaw",
+        "region": "Asia",
+        "currency": "Kyat",
+        "flag": "https://cdn.countryflags.com/thumbs/myanmar/flag-400.png",
+        "language": "Burmese",
+        "religion": "Buddhism"
+    },
+    {
+        "name": "Namibia",
+        "capital": "Windhoek",
+        "region": "Africa",
+        "currency": "Namibian Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/namibia/flag-400.png",
+        "language": "English, Afrikaans, German",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Nauru",
+        "capital": "Yaren",
+        "region": "Oceania",
+        "currency": "Australian Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/nauru/flag-400.png",
+        "language": "English, Nauran",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Nepal",
+        "capital": "Kathmandu",
+        "region": "Asia",
+        "currency": "Nepalese Rupee",
+        "flag": "https://cdn.countryflags.com/thumbs/nepal/flag-400.png",
+        "language": "Nepali",
+        "religion": "Islam, Hindu, Buddhism"
+    },
+    {
+        "name": "Netherlands",
+        "capital": "Amsterdam",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/netherlands/flag-400.png",
+        "language": "Dutch",    
+        "religion": "Christianity (but secular country)"
+    },
+    {
+        "name": "New Zealand",
+        "capital": "Wellington",
+        "region": "Oceania",
+        "currency": "New Zealand Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/new-zealand/flag-400.png",
+        "language": "English",
+        "religion": "Christianity (but secular country)"
+    },
+    {
+        "name": "Nicaragua",
+        "capital": "Managua",
+        "region": "North America",
+        "currency": "Cordoba",
+        "flag": "https://cdn.countryflags.com/thumbs/nicaragua/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Niger",
+        "capital": "Niamey",
+        "region": "Africa",
+        "currency": "West African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/niger/flag-400.png",
+        "language": "French",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "region": "Africa",
+        "currency": "Naira",
+        "flag": "https://cdn.countryflags.com/thumbs/nigeria/flag-400.png",
+        "language": "English",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Norway",
+        "capital": "Oslo",
+        "region": "Europe",
+        "currency": "Norwegian Krone",
+        "flag": "https://cdn.countryflags.com/thumbs/norway/flag-400.png",
+        "language": "Norwegian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Oman",
+        "capital": "Muscat",
+        "region": "Asia",
+        "currency": "Omani Rial",
+        "flag": "https://cdn.countryflags.com/thumbs/oman/flag-400.png",
+        "language": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Pakistan",
+        "capital": "Islamabad",
+        "region": "Asia",
+        "currency": "Pakistani Rupee",
+        "flag": "https://cdn.countryflags.com/thumbs/pakistan/flag-400.png",
+        "language": "Urdu, English",
+        "religion": "Islam"
+    },
+    {
+        "name": "Palau",
+        "capital": "Melekeok",
+        "region": "Oceania",
+        "currency": "United States Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/palau/flag-400.png",
+        "language": "English, Palauan",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Panama",
+        "capital": "Panama City",
+        "region": "North America",
+        "currency": "Balboa",
+        "flag": "https://cdn.countryflags.com/thumbs/panama/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Papua New Guinea",
+        "capital": "Port Moresby",
+        "region": "Oceania",
+        "currency": "Papua New Guinean Kina",
+        "flag": "https://cdn.countryflags.com/thumbs/papua-new-guinea/flag-400.png",
+        "language": "English, Tok, Pisin, Hiri Motu",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Paraguay",
+        "capital": "Asuncion",
+        "region": "South America",
+        "currency": "Guarani",
+        "flag": "https://cdn.countryflags.com/thumbs/paraguay/flag-400.png",
+        "language": "Spanish, Guarani",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Peru",
+        "capital": "Lima",
+        "region": "South America",
+        "currency": "Nuevo Sol",
+        "flag": "https://cdn.countryflags.com/thumbs/peru/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Philippines",
+        "capital": "Manila",
+        "region": "Asia",
+        "currency": "Philippine Peso",
+        "flag": "https://cdn.countryflags.com/thumbs/philippines/flag-400.png",
+        "language": "Filipino, English",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Poland",
+        "capital": "Warsaw",
+        "region": "Europe",
+        "currency": "Zloty",
+        "flag": "https://cdn.countryflags.com/thumbs/poland/flag-400.png",
+        "language": "Polish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Portugal",
+        "capital": "Lisbon",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/portugal/flag-400.png",
+        "language": "Portuguese",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Qatar",
+        "capital": "Doha",
+        "region": "Asia",
+        "currency": "Qatari Riyal",
+        "flag": "https://cdn.countryflags.com/thumbs/qatar/flag-400.png",
+        "language": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Romania",
+        "capital": "Bucharest",
+        "region": "Europe",
+        "currency": "Romanian Rupee",
+        "flag": "https://cdn.countryflags.com/thumbs/romania/flag-400.png",
+        "language": "Romanian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Russia",
+        "capital": "Moscow",
+        "region": "Europe",
+        "currency": "Ruble",
+        "flag": "https://cdn.countryflags.com/thumbs/russia/flag-400.png",
+        "language": "Russian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Rwanda",
+        "capital": "Kigali",
+        "region": "Africa",
+        "currency": "Rwanda Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/rwanda/flag-400.png",
+        "language": "Kinyarwanda, French, English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Saint Kitts & Nevis",
+        "capital": "Basseterre",
+        "region": "North America",
+        "currency": "East Caribbean Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/saint-kitts-and-nevis/flag-400.png",
+        "language": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Saint Lucia",
+        "capital": "Castries",
+        "region": "North America",
+        "currency": "East Caribbean Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/saint-lucia/flag-400.png",
+        "language": "English, French",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Saint Vincent & The Grenadines",
+        "capital": "Kingstown",
+        "region": "North America",
+        "currency": "East Caribbean Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/saint-vincent-and-the-grenadines/flag-400.png",
+        "language": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Samoa",
+        "capital": "Apia",
+        "region": "Oceania",
+        "currency": "Tala",
+        "flag": "https://cdn.countryflags.com/thumbs/samoa/flag-400.png",
+        "language": "Samoan, English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Sao Tome & Principe",
+        "capital": "Sao Tome",
+        "region": "Africa",
+        "currency": "Dobra",
+        "flag": "https://cdn.countryflags.com/thumbs/sao-tome-and-principe/flag-400.png",
+        "language": "Portuguese",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Saudi Arabia",
+        "capital": "Riyadh",
+        "region": "Asia",
+        "currency": "Saudi Riyal",
+        "flag": "https://cdn.countryflags.com/thumbs/saudi-arabia/flag-400.png",
+        "language": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Senegal",
+        "capital": "Dakar",
+        "region": "Africa",
+        "currency": "West African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/senegal/flag-400.png",
+        "language": "French",
+        "religion": "Islam"
+    },
+    {
+        "name": "Serbia",
+        "capital": "Belgrade",
+        "region": "Europe",
+        "currency": "Serbian Dinar",
+        "flag": "https://cdn.countryflags.com/thumbs/serbia/flag-400.png",
+        "language": "Serbian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Seychelles",
+        "capital": "Victoria",
+        "region": "Africa",
+        "currency": "Seychoellois Rupee",
+        "flag": "https://cdn.countryflags.com/thumbs/seychelles/flag-400.png",
+        "language": "Seychellois Creole, French, English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Sierra Leone",
+        "capital": "Freetown",
+        "region": "Africa",
+        "currency": "Leone",
+        "flag": "https://cdn.countryflags.com/thumbs/sierra-leone/flag-400.png",
+        "language": "Krio, English",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Singapore",
+        "capital": "Singapore",
+        "region": "Asia",
+        "currency": "Singapore Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/singapore/flag-400.png",
+        "language": "Malay, English, Mandarin Chinese",
+        "religion": "Buddhism, Christianity"
+    },
+    {
+        "name": "Slovakia",
+        "capital": "Bratislava",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/slovakia/flag-400.png",
+        "language": "Slovak",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Slovenia",
+        "capital": "Ljubljana",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/slovenia/flag-400.png",
+        "language": "Slovene",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Solomon Islands",
+        "capital": "Honiara",
+        "region": "Oceania",
+        "currency": "Solomon Islands Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/solomon-islands/flag-400.png",
+        "language": "Solomons Pijin",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Somalia",
+        "capital": "Mogadishu",
+        "region": "Africa",
+        "currency": "Somali Shilling",
+        "flag": "https://cdn.countryflags.com/thumbs/somalia/flag-400.png",
+        "language": "Somali, Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "South Africa",
+        "capital": "Pretoria, Cape Town, Bloemfontein",
+        "region": "Africa",
+        "currency": "Rand",
+        "flag": "https://cdn.countryflags.com/thumbs/south-africa/flag-400.png",
+        "language": "Zulu, Xhosa, Afrikaans",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Spain",
+        "capital": "Madrid",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/spain/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Sri Lanka",
+        "capital": "Colombo",
+        "region": "Asia",
+        "currency": "Sri Lanka Rupee",
+        "flag": "https://cdn.countryflags.com/thumbs/sri-lanka/flag-400.png",
+        "language": "Sinhala, Tamil",
+        "religion": "Buddhism, Hindu, Islam"
+    },
+    {
+        "name": "Sudan",
+        "capital": "Khartoum",
+        "region": "Africa",
+        "currency": "Sudanese Pound",
+        "flag": "https://cdn.countryflags.com/thumbs/sudan/flag-400.png",
+        "language": "Arabic, English",
+        "religion": "Islam"
+    },
+    {
+        "name": "Suriname",
+        "capital": "Paramaribo",
+        "region": "South America",
+        "currency": "Surinamese Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/suriname/flag-400.png",
+        "language": "Dutch",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Swaziland",
+        "capital": "Mbabane",
+        "region": "Africa",
+        "currency": "Lilangeni",
+        "flag": "https://cdn.countryflags.com/thumbs/swaziland/flag-400.png",
+        "language": "English, SiSwati",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Sweden",
+        "capital": "Stockholm",
+        "region": "Europe",
+        "currency": "Swedish Krona",
+        "flag": "https://cdn.countryflags.com/thumbs/sweden/flag-400.png",
+        "language": "Swedish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Switzerland",
+        "capital": "Berne",
+        "region": "Europe",
+        "currency": "Swiss Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/switzerland/flag-400.png",
+        "language": "German, French, Italian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Syria",
+        "capital": "Damascus",
+        "region": "Asia",
+        "currency": "Syrian Pound",
+        "flag": "https://cdn.countryflags.com/thumbs/syria/flag-400.png",
+        "language": "Arabic",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Taiwan",
+        "capital": "Taipei",
+        "region": "Asia",
+        "currency": "New Taiwan Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/taiwan/flag-400.png",
+        "language": "Mandarin",
+        "religion": "Polytheistic ancient Chinese religion, Buddhism"
+    },
+    {
+        "name": "Tajikistan",
+        "capital": "Dushanbe",
+        "region": "Asia",
+        "currency": "Somoni",
+        "flag": "https://cdn.countryflags.com/thumbs/tajikistan/flag-400.png",
+        "language": "Tajik, Russian",
+        "religion": "Islam"
+    },
+    {
+        "name": "Tanzania",
+        "capital": "Dar es Salaam, Dodoma",
+        "region": "Africa",
+        "currency": "Tanzanian Schilling",
+        "flag": "https://cdn.countryflags.com/thumbs/tanzania/flag-400.png",
+        "language": "Swahili",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Thailand",
+        "capital": "Bangkok",
+        "region": "Asia",
+        "currency": "Thai Baht",
+        "flag": "https://cdn.countryflags.com/thumbs/thailand/flag-400.png",
+        "language": "Thai",
+        "religion": "Buddhism"
+    },
+    {
+        "name": "Togo",
+        "capital": "Lome",
+        "region": "Africa",
+        "currency": "West African CFA Franc",
+        "flag": "https://cdn.countryflags.com/thumbs/togo/flag-400.png",
+        "language": "French",
+        "religion": "Traditioinal Native Religion, Christianity"
+    },
+    {
+        "name": "Tonga",
+        "capital": "Nuku'alofa",
+        "region": "Oceania",
+        "currency": "Pa'anga",
+        "flag": "https://cdn.countryflags.com/thumbs/tonga/flag-400.png",
+        "language": "Tongan, English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Trinidad & Tobago",
+        "capital": "Port-of-Spain",
+        "region": "South America",
+        "currency": "Trinidad & Tobago Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/trinidad-and-tobago/flag-400.png",
+        "language": "English",
+        "religion": "Islam, Christianity, Hindu"
+    },
+    {
+        "name": "Tunisia",
+        "capital": "Tunis",
+        "region": "Africa",
+        "currency": "Tunisian Dinar",
+        "flag": "https://cdn.countryflags.com/thumbs/tunisia/flag-400.png",
+        "language": "Tunisian, French",
+        "religion": "Islam"
+    },
+    {
+        "name": "Turkey",
+        "capital": "Ankara",
+        "region": "Asia/Europe",
+        "currency": "Turkish Lira",
+        "flag": "https://cdn.countryflags.com/thumbs/turkey/flag-400.png",
+        "language": "Turkish",
+        "religion": "Islam (but secular country)"
+    },
+    {
+        "name": "Turkmenistan",
+        "capital": "Ashgabad",
+        "region": "Asia",
+        "currency": "Turkment New Manat",
+        "flag": "https://cdn.countryflags.com/thumbs/turkmenistan/flag-400.png",
+        "language": "Turkmen, Russian",
+        "religion": "Islam"
+    },
+    {
+        "name": "Tuvalu",
+        "capital": "Vaiaku",
+        "region": "Oceania",
+        "currency": "Tvaluan Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/tuvalu/flag-400.png",
+        "language": "Tuvaluan, English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Uganda",
+        "capital": "Kampala",
+        "region": "Africa",
+        "currency": "Ugandan Shilling",
+        "flag": "https://cdn.countryflags.com/thumbs/uganda/flag-400.png",
+        "language": "Swahili, English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Ukraine",
+        "capital": "Kiev",
+        "region": "Europe",
+        "currency": "Hryvnia",
+        "flag": "https://cdn.countryflags.com/thumbs/ukraine/flag-400.png",
+        "language": "Ukranian, Russian",
+        "religion": "Eastern Orthodoxy"
+    },
+    {
+        "name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "region": "Asia",
+        "currency": "Dirham",
+        "flag": "https://flagcolorinfo.com/wp-content/uploads/United-Arab-Emirates-Flag-Color-Codes.png",
+        "language": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "United Kingdom",
+        "capital": "London",
+        "region": "Europe",
+        "currency": "Pound Sterling",
+        "flag": "https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png",
+        "language": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "United States of America",
+        "capital": "Washington D.C.",
+        "region": "North America",
+        "currency": "United States Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png",
+        "language": "English, Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Uruguay",
+        "capital": "Montevideo",
+        "region": "South America",
+        "currency": "Uruguayan Peso",
+        "flag": "https://cdn.countryflags.com/thumbs/uruguay/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Uzbekistan",
+        "capital": "Tashkent",
+        "region": "Asia",
+        "currency": "Uzbekistan Som",
+        "flag": "https://cdn.countryflags.com/thumbs/uzbekistan/flag-400.png",
+        "language": "Uzbek, Russian",
+        "religion": "Islam"
+    },
+    {
+        "name": "Vanuatu",
+        "capital": "Port-Villa",
+        "region": "Oceania",
+        "currency": "Vanuatu Vatu",
+        "flag": "https://cdn.countryflags.com/thumbs/vanuatu/flag-400.png",
+        "language": "Bislama, English, French",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Vatican City",
+        "capital": "Vatican City",
+        "region": "Europe",
+        "currency": "Euro",
+        "flag": "https://cdn.countryflags.com/thumbs/vatican-city/flag-400.png",
+        "language": "Latin, Italian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Venezuela",
+        "capital": "Caracas",
+        "region": "North America",
+        "currency": "Boliviar Fuerte",
+        "flag": "https://cdn.countryflags.com/thumbs/venezuela/flag-400.png",
+        "language": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Vietnam",
+        "capital": "Hanoi",
+        "region": "Asia",
+        "currency": "Dong",
+        "flag": "https://cdn.countryflags.com/thumbs/vietnam/flag-400.png",
+        "language": "Vietnamese",
+        "religion": "Native Religious Practice, Christianity"
+    },
+    {
+        "name": "Yemen",
+        "capital": "Sanaa",
+        "region": "Asia",
+        "currency": "Yemeni Rial",
+        "flag": "https://cdn.countryflags.com/thumbs/yemen/flag-400.png",
+        "language": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Zambia",
+        "capital": "Lusaka",
+        "region": "Africa",
+        "currency": "Zambian Kwacha",
+        "flag": "https://cdn.countryflags.com/thumbs/zambia/flag-400.png",
+        "language": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Zimbabwe",
+        "capital": "Harare",
+        "region": "Africa",
+        "currency": "United States Dollar",
+        "flag": "https://cdn.countryflags.com/thumbs/zimbabwe/flag-400.png",
+        "language": "English",
+        "religion": "Christianity"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "name": "",
+    "capital": "",
+    "region": "",
+    "currency": "",
+    "flag": "https://cdn.countryflags.com/thumbs/./flag-400.png",
+    "language": "",
+    "religion": ""
+}
