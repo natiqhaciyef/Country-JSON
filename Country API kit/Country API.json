@@ -720,11 +720,11 @@
         "religion": "Christianity"
     },
     {
-        "name": "Isreal",
+        "name": "Israel",
         "capital": "Jerusalem",
         "region": "Asia",
         "currency": "Shekel",
-        "flag": "https://cdn.countryflags.com/thumbs/isreal/flag-400.png",
+        "flag": "https://cdn.countryflags.com/thumbs/israel/flag-400.png",
         "language": "Hebrew, Arabic",
         "religion": "Judaism, Christianity, Islam, Durze"
     },
